@@ -1,0 +1,35 @@
+
+
+header{
+    height:45px;
+}
+ nav ul{
+    display:inline;
+    margin-left:50%;
+    list-style:none;
+    text-decoration:none;
+    height:45px;
+    font-family:roboto;
+    
+}
+nav ul li a{
+    text-decoration:none;
+    color:brown;
+    margin:20px
+}
+#about{
+    background-color: bisque;
+}
+#work{
+    background-color: bisque;
+}
+#contact{
+    background-color: blanchedalmond;
+}
+.container { max-width: 600px; background-repeat:round;margin: auto; border: 1px solid #ccc; padding: 20px; }
+
+        table { width: 100%; margin-top: 20px; }
+        td { padding: 8px; }
+        .label { font-weight: bold; }
+footer{justify-content:center;background-color: aliceblue;}
+    
